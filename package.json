@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  },
+  "name": "fool-card-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fool",
+    "card",
+    "game",
+    "nodejs",
+    "express",
+    "socket.io"
+  ],
+  "author": "scar17off",
+  "license": "MIT",
+  "description": "fool card game"
+}
