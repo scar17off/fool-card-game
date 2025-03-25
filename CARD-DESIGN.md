@@ -10,8 +10,8 @@
 ### Sample prompts:
 | Card Type | Description |
 | --------- | ----------- |
-| Spades    | Playing card with a full-body girl, white background, simple lighting, anime girl, holding a bloody knife, blood splatters and drips around the edges, leather jacket, studs, patches, biker style, bloody hands and legs |
-| Clubs     | Playing card with a full-body girl, white background, simple lighting, anime girl, holding a bloody knife, blood splatters and drips around the edges, black gothic dress, lace details, dark, blood splatter |
+| Spades    | **Playing card with a full-body girl, white background, simple lighting, spades symbol** . anime girl, holding a bloody knife, blood splatters and drips around the edges, leather jacket, studs, patches, biker style, bloody hands and legs |
+| Clubs     | **Playing card with a full-body girl, white background, simple lighting, clubs symbol** . anime girl, holding a bloody knife, blood splatters and drips around the edges, black gothic dress, lace details, dark, blood splatter |
 
 # Spades
 
