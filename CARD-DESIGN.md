@@ -2,10 +2,16 @@
 
 ### Requirements:
 
-- All cards are 720x1080 pixels.
+- All cards are 720x1520 pixels.
 - All cards are bloody red, some are more bloody than others.
 - All cards have a girl.
 - All cards have a self injury element (bleeding, knife).
+
+### Sample prompts:
+| Card Type | Description |
+| --------- | ----------- |
+| Spades    | Playing card with a full-body girl, white background, simple lighting, anime girl, holding a bloody knife, blood splatters and drips around the edges, leather jacket, studs, patches, biker style, bloody hands and legs |
+| Clubs     | Playing card with a full-body girl, white background, simple lighting, anime girl, holding a bloody knife, blood splatters and drips around the edges, black gothic dress, lace details, dark, blood splatter |
 
 # Spades
 
